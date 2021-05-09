@@ -41,6 +41,9 @@
     "clientTheme": "none",
     "clientThemeVariant": "",
     "withAdminUi": true,
-    "languages": ["en"]
+    "languages": ["en"],
+    "herokuAppName": "jhherokucicd",
+    "herokuDeployType": "git",
+    "herokuJavaVersion": "11"
   }
 }
